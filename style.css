@@ -1,0 +1,157 @@
+h1 {
+  color: white;
+  font-family: monospace;
+  font-size: 40px;
+  vertical-align: text-top;
+}
+
+body {
+  background: #000;
+}
+
+h2 {
+  font-size: x-large;
+  color: yellow;
+  font-family: monospace;
+}
+
+.about-me {
+  color: #d780ec;
+  text-align: center;
+  font-family: monospace;
+}
+
+.about-me-text {
+  color: aqua;
+  font-family: monospace;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.pfp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.project-showcase {
+  color: fuchsia;
+  text-align: center;
+}
+
+.project-text {
+  font-family: monospace;
+  color: greenyellow;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.link {
+  color: skyblue;
+  font-size: x-large;
+}
+
+.project-desc {
+  color: orange;
+  font-size: x-large;
+}
+
+.social {
+  color: palevioletred;
+  text-align: center;
+}
+
+.social-text {
+  text-align: center;
+  font-size: xx-large;
+  font-family: monospace;
+}
+
+.python-text {
+  color: khaki;
+}
+
+.python-project-title {
+  color: blue;
+  font-size: xx-large;
+  font-family: monospace;
+}
+
+.python-project-text {
+  color: chartreuse;
+  font-size: x-large;
+  font-family: monospace;
+}
+
+.more-python {
+  font-size: xx-large;
+  font-family: monospace;
+  color: crimson;
+  text-align: center;
+}
+.more-python-text {
+  font-size: x-large;
+  color: blueviolet;
+  text-align: center;
+}
+
+.discord-text {
+  color: cornflowerblue;
+}
+
+.discord-project-title {
+  font-size: xx-large;
+  font-family: monospace;
+  color: #aba093;
+}
+
+.discord-project-text {
+  font-size: x-large;
+  font-family: monospace;
+  color: turquoise;
+}
+
+.more-info {
+  font-size: xx-large;
+  font-family: monospace;
+  color: gold;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.more-text {
+  color: darkorchid;
+  font-size: x-large;
+  font-family: monospace;
+  text-align: center;
+}
+
+.game-dev-text {
+  font-family: monospace;
+  color: coral;
+}
+
+.game-dev-title {
+  color: aqua;
+  font-size: xx-large;
+  font-family: monospace;
+}
+
+.game-dev-desc {
+  color: yellow;
+  font-size: x-large;
+  font-family: monospace;
+}
+
+.game-dev-side {
+  color: rosybrown;
+  text-align: center;
+}
+
+.game-dev-side-text {
+  color: olivedrab;
+  text-align: center;
+  font-size: x-large;
+  font-family: monospace;
+}
